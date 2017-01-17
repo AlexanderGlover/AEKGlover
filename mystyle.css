@@ -1,0 +1,30 @@
+body {
+  color: white;
+  font-size: 24;
+}
+
+div.container {
+    height: auto;
+    width: 100%;
+    background-color: black;
+}
+
+div.div1 {
+  height: 100%;
+  background-size: cover;
+  background-image: url(./images/underConstruction.jpg);
+}
+
+div.text {
+  padding-right: 15;
+  float: right;
+}
+
+p.thankYou {
+  font-size: 48;
+  float: right;
+}
+
+p.message {
+  right: 15;
+}
